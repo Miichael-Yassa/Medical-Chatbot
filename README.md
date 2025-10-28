@@ -61,7 +61,7 @@ Each XML file includes:
 
 | Category             | Tool/Library                              |
 |----------------------|-------------------------------------------|
-| Dataset              | MedQuAD (NIH, XML format)                 |
+| Datasets              | MedQuAD (NIH, XML format)                 |
 | Pretrained Models    | BioBERT, Sentence-BERT                    |
 | Embedding & Retrieval| FAISS, SentenceTransformers               |
 | Programming Language | Python 3                                  |
