@@ -1,4 +1,4 @@
-# 🧠 Biomedical QA System with BioBERT + FAISS  
+# 🧠 Biomedical QA System with BioBERT+FAISS  
 **By Michael Yassa**
 
 This project builds an efficient medical question answering system using:
